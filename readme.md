@@ -18,7 +18,7 @@ Due to my job I have alot of time in hotels during layovers and teaching myself 
 <img align="left" width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
 <img align="left" width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
 <img align="left" width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /><br><br><br>
 
 ## Certificates
 <details>
