@@ -27,3 +27,19 @@ Due to my job I have alot of time in hotels during layovers and teaching myself 
 <img width="800px" src="CS50x.png"><br>
 <img width="800px" src="edxCS50x.png">
 </details>
+
+## Projects
+<details>
+<summary>Systems Reference for A300</summary>
+<p>Website to quickly review the systems of the A300-600RF and create a review pdf for systems and non-normal procedures. For company internal use only, therefore a private repository</p>
+<img width="600px" src="projects/A300/Reference0.png"><br>
+<img width="600px" src="projects/A300/Reference1.png"><br>
+<img width="600px" src="projects/A300/Reference2.png"><br>
+<img width="600px" src="projects/A300/Reference3.png"><br>
+</details>
+<details>
+<summary>Simple Code Timer - Python / Tkinter</summary>
+<p>I wanted to build a small code timer for myself, to time my sessions. I took this idea to learn a bit of tkinter to create desktop python apps. Since tkinter itself does look rather old I stumbled upon tkkbootstrap. This made the looks of it bit more modern.<a href="https://github.com/JetDev22/Code-Timer"> Go to Project here</a></p>
+<img style="float: left" src="projects/CodeTimer/screen1.png">
+<img src="projects/CodeTimer/screen2.png"><br>
+</details>
