@@ -1,7 +1,7 @@
 ## About me
 My name is Thomas Roelig and I work as an airline pilot for a large german cargo airline. I started my carrier flying passenger airplanes (737NG Family / A320 Family) and then changed to cargo operations (A300-600RF).<br>
 I always enjoyed tinkering and making stuff and found a passion in 3D printing and programming. This led to the beginning of my self-taught programming journey. After the usual tutorial hell, I was looking for a more structured approach and found CS50.<br>
-Due to my job I have alot of time in hotels during layovers and teaching myself to code seems to make the time spend away from home so much more productive and worthwhile. 
+Due to my job I have alot of time in hotels during layovers and teaching myself to code seems to make the time spend away from home so much more productive and worthwhile.
 
 ## Tools and Languages
 <img align="left" width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
@@ -24,8 +24,13 @@ Due to my job I have alot of time in hotels during layovers and teaching myself 
 ## Certificates
 <details>
 <summary>CS50x</summary>
-<img width="800px" src="CS50x.png"><br>
-<img width="800px" src="edxCS50x.png">
+<img width="800px" src="certifications/CS50x.png"><br>
+<img width="800px" src="certifications/edxCS50x.png">
+</details>
+<details>
+  <summary>Coursera</summary>
+  <img width="800px" src="certifications/DockerIntroductionCert.png"><br>
+  <img width="800px" src="certifications/LinuxFundamentalsCert.png">
 </details>
 
 ## Projects
@@ -42,4 +47,9 @@ Due to my job I have alot of time in hotels during layovers and teaching myself 
 <p>I wanted to build a small code timer for myself, to time my sessions. I took this idea to learn a bit of tkinter to create desktop python apps. Since tkinter itself does look rather old I stumbled upon tkkbootstrap. This made the looks of it bit more modern.<a href="https://github.com/JetDev22/Code-Timer"> Go to Project here</a></p>
 <img style="float: left" src="projects/CodeTimer/screen1.png">
 <img src="projects/CodeTimer/screen2.png"><br>
+</details>
+<details>
+  <summary>HomeLab Server</summary>
+  <img width="600px" src="pictures/homelab0.jpg">
+  <p>This is the documentation and information about my HomeLab server. Details about hardware and software as well as future plans.<a href="https://github.com/JetDev22"> Go to Project here [Work in Progress]</a></p>
 </details>
