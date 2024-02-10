@@ -37,7 +37,7 @@ Due to my job I have alot of time in hotels during layovers and teaching myself 
 ## Projects
 <details>
 <summary>Systems Reference for A300</summary>
-<p>Website to quickly review the systems of the A300-600RF and create a review pdf for systems and non-normal procedures. For company internal use only, therefore a private repository</p>
+<p>Website to quickly review the systems of the A300-600RF and create a review pdf for systems and non-normal procedures. For company internal use only, therefore a private repository. The website was build using Flask, MySQL to store all system data and Javascript to enable theme switching for pico.css. I will release a blank version (without the company database file). This may be of use for projects that store study notes, recepies ...</p>
 <img width="600px" src="projects/A300/Reference0.png"><br>
 <img width="600px" src="projects/A300/Reference1.png"><br>
 <img width="600px" src="projects/A300/Reference2.png"><br>
