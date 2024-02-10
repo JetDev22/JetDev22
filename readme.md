@@ -30,7 +30,8 @@ Due to my job I have alot of time in hotels during layovers and teaching myself 
 <details>
   <summary>Coursera</summary>
   <img width="800px" src="certifications/DockerIntroductionCert.png"><br>
-  <img width="800px" src="certifications/LinuxFundamentalsCert.png">
+  <img width="800px" src="certifications/LinuxFundamentalsCert.png"><br>
+  <img width="800px" src="certifications/LinuxForDevsCert.png">
 </details>
 
 ## Projects
