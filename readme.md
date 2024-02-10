@@ -46,8 +46,8 @@ Due to my job I have alot of time in hotels during layovers and teaching myself 
 <details>
 <summary>Simple Code Timer - Python / Tkinter</summary>
 <p>I wanted to build a small code timer for myself, to time my sessions. I took this idea to learn a bit of tkinter to create desktop python apps. Since tkinter itself does look rather old I stumbled upon tkkbootstrap. This made the looks of it bit more modern.<a href="https://github.com/JetDev22/Code-Timer"> Go to Project here</a></p>
-<img style="float: left" src="projects/CodeTimer/screen1.png">
-<img src="projects/CodeTimer/screen2.png"><br>
+<img style="float: left" src="projects/CodeTimer/screen1.png" width="310px">
+<img src="projects/CodeTimer/screen2.png" width="300px"><br>
 </details>
 <details>
   <summary>HomeLab Server</summary>
