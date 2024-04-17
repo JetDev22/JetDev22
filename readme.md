@@ -33,7 +33,11 @@ Due to my job I have alot of time in hotels during layovers and teaching myself 
   <img width="600px" src="certifications/DockerIntroductionCert.png"><br>
   <img width="600px" src="certifications/LinuxFundamentalsCert.png"><br>
   <img width="600px" src="certifications/LinuxForDevsCert.png"><br>
-  <img width="600px" src="certifications/OSSDevelopementMethodsCert.png">
+  <img width="600px" src="certifications/OSSDevelopementMethodsCert.png"><br>
+  <img width="600px" src="certifications/MetaGit.png"><br>
+  <img width="600px" src="certifications/MetaJavaScript.png"><br>
+  <img width="600px" src="certifications/NetworkGoogleCert.png"><br>
+  <img width="600px" src="certifications/OSGoogleCert.png">
 </details>
 
 ## Projects
