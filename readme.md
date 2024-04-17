@@ -57,6 +57,5 @@ Due to my job I have alot of time in hotels during layovers and teaching myself 
 </details>
 <details>
   <summary>HomeLab Server</summary>
-  <p>This is the documentation and information about my HomeLab server. Details about hardware and software as well as future plans.<a href="https://github.com/JetDev22/homelab"> Go to Project here [Not yet complete]</a></p>
-  <img width="400px" src="pictures/homelab0.jpg">
+  <p>Work in Progress - Stay tuned :-)</p>
 </details>
