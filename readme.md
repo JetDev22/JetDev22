@@ -51,7 +51,7 @@ Due to my job I have alot of time in hotels during layovers and teaching myself 
 </details>
 <details>
 <summary>Simple Code Timer - Python / Tkinter</summary>
-<p>I wanted to build a small code timer for myself, to time my sessions. I took this idea to learn a bit of tkinter to create desktop python apps. Since tkinter itself does look rather old I stumbled upon tkkbootstrap. This made the looks of it bit more modern.<a href="https://github.com/JetDev22/Code-Timer"> Go to Project here</a></p>
+<p>I wanted to build a small code timer for myself, to time my sessions. I took this idea to learn a bit of tkinter to create desktop python apps. Since I found tkinter to look a bit old'ish for my taste, I tried tkkbootstrap. This made the looks of it bit more modern.<a href="https://github.com/JetDev22/Code-Timer"> Go to Project here</a></p>
 <img style="float: left" src="projects/CodeTimer/screen1.png" width="310px">
 <img src="projects/CodeTimer/screen2.png" width="300px"><br>
 </details>
@@ -61,5 +61,9 @@ Due to my job I have alot of time in hotels during layovers and teaching myself 
 </details>
 <details>
 <summary>BTC Portfolio Tracker PI / CLI</summary>
-<p>Two BTC Portfolio Tracker based on python. One display to an 16x2 LCD connected to any Raspberry Pi, the other one uses the CLI and outputs a selfupdating summary to the CLI. You can find the project --><a href="https://github.com/JetDev22/BTC-Tracker">here</a></p>
+<img width="600px" src="pictures/summary.png"><br>
+<p>Two BTC Portfolio Tracker based on python.
+<ol><li>One displays to an 16x2 LCD connected to any Raspberry Pi</li>
+<li>The other one uses the CLI</li></ol>
+<a href="https://github.com/JetDev22/BTC-Tracker">Go to the project here</a></p>
 </details>
