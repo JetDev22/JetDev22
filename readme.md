@@ -65,6 +65,7 @@ Due to my job I have alot of time in hotels during layovers and teaching myself 
 <img width="600px" src="pictures/summary.png"><br>
 <p>Two BTC Portfolio Tracker based on python.
 <ol><li>One displays to an 16x2 LCD connected to any Raspberry Pi</li>
-<li>The other one uses the CLI</li></ol>
+<li>One uses the CLI</li>
+<li>One uses a 64x64 LED Matrix</li></ol>
 <a href="https://github.com/JetDev22/BTC-Tracker">Go to the project here</a></p>
 </details>
