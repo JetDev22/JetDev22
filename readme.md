@@ -36,6 +36,7 @@ Due to my job I have alot of time in hotels during layovers and teaching myself 
   <img width="600px" src="certifications/OSSDevelopementMethodsCert.png"><br>
   <img width="600px" src="certifications/MetaGit.png"><br>
   <img width="600px" src="certifications/MetaJavaScript.png"><br>
+  <img width="600px" src="certifications/MetaHtmlCss.png"><br>
   <img width="600px" src="certifications/Google-TechIntro.png"><br>
   <img width="600px" src="certifications/NetworkGoogleCert.png"><br>
   <img width="600px" src="certifications/OSGoogleCert.png"><br>
