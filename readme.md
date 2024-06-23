@@ -40,7 +40,10 @@ Due to my job I have alot of time in hotels during layovers and teaching myself 
   <img width="600px" src="certifications/Google-TechIntro.png"><br>
   <img width="600px" src="certifications/NetworkGoogleCert.png"><br>
   <img width="600px" src="certifications/OSGoogleCert.png"><br>
-  <img width="600px" src="certifications/GoogleSysAdmin.png">
+  <img width="600px" src="certifications/GoogleSysAdmin.png"><br>
+  <img width="600px" src="certifications/GoogleITSecurity.png"><br>
+  <img width="600px" src="certifications/GoogleITProfessional.png">
+
 </details>
 
 ## Projects
