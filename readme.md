@@ -56,10 +56,6 @@ Due to my job I have alot of time in hotels during layovers and teaching myself 
 <img src="projects/CodeTimer/screen2.png" width="300px"><br>
 </details>
 <details>
-  <summary>HomeLab Server</summary>
-  <p>Work in Progress - Stay tuned :-)</p>
-</details>
-<details>
 <summary>BTC Portfolio Tracker PI / CLI</summary>
 <img width="600px" src="pictures/summary.png"><br>
 <p>Two BTC Portfolio Tracker based on python.
