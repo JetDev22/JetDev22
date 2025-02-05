@@ -22,12 +22,11 @@ Due to my job I have alot of time in hotels during layovers and teaching myself 
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />
-***
 
 <br>
 <br>
 <br>
-
+#
 ## Certificates
 <details>
 <summary>CS50x</summary>
