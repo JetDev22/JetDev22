@@ -26,7 +26,10 @@ Due to my job I have alot of time in hotels during layovers and teaching myself 
 <br>
 <br>
 <br>
-#
+
+
+
+
 ## Certificates
 <details>
 <summary>CS50x</summary>
