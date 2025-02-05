@@ -6,7 +6,6 @@ Due to my job I have alot of time in hotels during layovers and teaching myself 
 ## Tools and Languages
 [![My Skills](https://skillicons.dev/icons?i=bash,html,css,js,debian,docker,github,linux,mysql,neovim,nodejs,npm,py,raspberrypi,react,svelte&perline=8)](https://skillicons.dev)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JetDev22&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Certificates
 <details>
