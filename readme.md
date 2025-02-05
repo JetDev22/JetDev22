@@ -4,7 +4,8 @@ I always enjoyed tinkering and making stuff and found a passion in 3D printing a
 Due to my job I have alot of time in hotels during layovers and teaching myself to code seems to make the time spend away from home so much more productive and worthwhile.
 
 ## Tools and Languages
-[![My Skills](https://skillicons.dev/icons?i=bash,html,css,js,debian,docker,github,linux,mysql,neovim,nodejs,npm,py,raspberrypi,react,svelte&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,html,css,js,debian,docker,github,linux,mysql,neovim,nodejs,npm,py,raspberrypi,react,svelte&perline=8)](https://skillicons.dev)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JetDev22)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Certificates
