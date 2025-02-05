@@ -21,6 +21,7 @@ Due to my job I have alot of time in hotels during layovers and teaching myself 
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+<img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />
 
 <br><br>
 
@@ -69,6 +70,12 @@ Due to my job I have alot of time in hotels during layovers and teaching myself 
 <img width="600px" src="https://raw.githubusercontent.com/JetDev22/react-btc-portfolio/main/screenshots/app.png"><br>
 <p>React App to show some stats on your &#8383; portfolio
 <a href="https://github.com/JetDev22/react-btc-portfolio">Go to the project here</a></p>
+</details>
+<details>
+  <summary>Sveltekit BTC Portfolio</summary>
+  <img width="600px" src="https://github.com/JetDev22/sveltekit-BTC-Portfolio/blob/master/screenshot.png"><br>
+  <p>Sveltekit Version of my &#8383; Portfolio tracker.
+  <a href="https://github.com/JetDev22/sveltekit-BTC-Portfolio/">Go to project here</a></p>
 </details>
 <details>
 <summary>Advent of Code</summary>
