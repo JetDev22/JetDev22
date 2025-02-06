@@ -1,7 +1,10 @@
 ## About me
-My name is Thomas Roelig and I work as an airline pilot for a large german cargo airline. I started my carrier flying passenger airplanes (737NG Family / A320 Family) and then changed to cargo operations (A300-600RF).<br>
-I always enjoyed tinkering and making stuff and found a passion in 3D printing and programming. This led to the beginning of my self-taught programming journey. After the usual tutorial hell, I was looking for a more structured approach and found CS50.<br>
-Due to my job I have alot of time in hotels during layovers and teaching myself to code seems to make the time spend away from home so much more productive and worthwhile.
+<ul>
+  <li>Airline Pilot for 15 yearsa</li>
+  <li>Trying to learn something new every day</li>
+  <li>Love 3D Printing</li>
+  <li>Love Programming</li>
+</ul>
 
 ## Tools and Languages
 [![My Skills](https://skillicons.dev/icons?i=bash,html,css,js,debian,docker,github,linux,mysql,neovim,nodejs,npm,py,raspberrypi,react,svelte&perline=8)](https://skillicons.dev)
