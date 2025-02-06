@@ -1,9 +1,9 @@
 ## About me
 <ul>
-  <li>Airline Pilot for 15 yearsa</li>
+  <li>Airline Pilot with a love for tech</li>
   <li>Trying to learn something new every day</li>
-  <li>Love 3D Printing</li>
-  <li>Love Programming</li>
+  <li>Doing alot of 3D Printing</li>
+  <li>Trying to teach myself Programming</li>
 </ul>
 
 ## Tools and Languages
