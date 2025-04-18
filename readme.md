@@ -9,6 +9,8 @@
 ## Tools and Languages
 [![My Skills](https://skillicons.dev/icons?i=bash,html,css,js,debian,docker,github,linux,mysql,neovim,nodejs,npm,py,raspberrypi,react,svelte&perline=8)](https://skillicons.dev)
 <br>
+[![codeWars](https://www.codewars.com/users/JetDev22/badges/large)
+<br>
 
 ## Certificates
 <details>
