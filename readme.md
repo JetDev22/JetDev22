@@ -20,7 +20,7 @@
 </details>
 <details>
   <summary>CS50P</summary>
-  <img width="600px" src="certifications/CS50p.png">
+  <img width="600px" src="certifications/CS50P.png">
 </details>
 <details>
   <summary>Coursera</summary>
