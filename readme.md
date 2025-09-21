@@ -19,6 +19,10 @@
 <img width="600px" src="certifications/edxCS50x.png">
 </details>
 <details>
+  <summary>CS50P</summary>
+  <img width="600px" src="certifications/CS50p.png">
+</details>
+<details>
   <summary>Coursera</summary>
   <img width="600px" src="certifications/DockerIntroductionCert.png"><br>
   <img width="600px" src="certifications/LinuxFundamentalsCert.png"><br>
