@@ -10,7 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=bash,html,css,js,debian,arch,docker,github,neovim,py&perline=5)](https://skillicons.dev)
 
 ## Codewars
-![codewars](https://www.codewars.com/users/JetDev22/badges/large)
+![codewars](https://www.codewars.com/users/JetDev22/badges/small)
 
 ## Advent of Code
 ![](https://img.shields.io/badge/days%20✅-14-green)     ![](https://img.shields.io/badge/stars%20⭐-28-yellow)
