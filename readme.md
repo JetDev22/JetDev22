@@ -12,6 +12,9 @@
 ## Codewars
 ![codewars](https://www.codewars.com/users/JetDev22/badges/large)
 
+## Advent of Code
+![](https://img.shields.io/badge/days%20✅-14-green)     ![](https://img.shields.io/badge/stars%20⭐-28-yellow)
+
 ## Certificates
 <details>
 <summary>CS50x</summary>
