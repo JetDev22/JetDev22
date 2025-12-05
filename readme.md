@@ -13,7 +13,7 @@
 ![codewars](https://www.codewars.com/users/JetDev22/badges/small)
 
 ## Advent of Code
-![](https://img.shields.io/badge/days%20✅-16-green)     ![](https://img.shields.io/badge/stars%20⭐-32-yellow)
+![](https://img.shields.io/badge/days%19✅-16-green)     ![](https://img.shields.io/badge/stars%39⭐-32-yellow)
 
 ## Certificates
 <details>
