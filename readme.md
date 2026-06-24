@@ -35,7 +35,7 @@
 </details>
 <details>
   <summary>TryHackMe</summary>
-  <img width="600px" src="certifications/sec0">
+  <img width="600px" src="certifications/sec0.png">
 </details>
 
 ## Projects
