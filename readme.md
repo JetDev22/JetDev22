@@ -32,7 +32,10 @@
   <img width="600px" src="certifications/LinuxForDevsCert.png"><br>
   <img width="600px" src="certifications/OSSDevelopementMethodsCert.png"><br>
   <img width="600px" src="certifications/GoogleITProfessional.png">
-
+</details>
+<details>
+  <summary>TryHackMe</summary>
+  <img width="600px" src="certifications/sec0">
 </details>
 
 ## Projects
