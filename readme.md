@@ -76,7 +76,7 @@
 </details>
 <details>
 <summary>Advent of Code</summary>
-<img width="600px" src="https://camo.githubusercontent.com/358bbec7bb4c5b6cff8948a93f2e1f0bbd66ada1007359fae5b5efb9057b905a/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e6439476354336a4f4b32777845356d657134516e33325a38493742617373474935427742367268512673"><br>
+<img width="600px" src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Fa3rp9hsb1isfo1tvh1d8.jpeg"><br>
 <p>My Advent of Code solutions. Great way to keep coding motivation up</p>
 <a href="https://github.com/JetDev22/AdventOfCode?tab=readme-ov-file"> Find my solutions here</a>
 </details>
