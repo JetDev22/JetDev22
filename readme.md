@@ -83,3 +83,9 @@
 <p>My Advent of Code solutions. Great way to keep coding motivation up</p>
 <a href="https://github.com/JetDev22/AdventOfCode?tab=readme-ov-file"> Find my solutions here</a>
 </details>
+<details>
+<summary>T-Embed-BTC-Tracker</summary>
+<img width="600px" src="https://raw.githubusercontent.com/JetDev22/T-Embed-BTC-Tracker/refs/heads/main/1769352297503.png"><br>
+<p>BTC Tracker for CC1101 T-Embed</p>
+<a href="https://github.com/JetDev22/T-Embed-BTC-Tracker">Go to project here</a>
+</details>
