@@ -7,7 +7,7 @@
 </ul>
 
 ## Tools and Languages
-[![My Skills](https://skillicons.dev/icons?i=bash,html,css,js,debian,arch,docker,github,neovim,py&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,html,css,js,md,go,py,debian,arch,ubuntu,linux,github,neovim,raspberrypi,py&perline=5)](https://skillicons.dev)
 
 ## Codewars
 ![codewars](https://www.codewars.com/users/JetDev22/badges/small)
