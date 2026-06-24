@@ -2,8 +2,11 @@
 <ul>
   <li>Airline Pilot with a love for tech</li>
   <li>Trying to learn something new every day</li>
-  <li>Doing alot of 3D Printing</li>
-  <li>Trying to teach myself Programming</li>
+  <li>3D Printing</li>
+  <li>Programming</li>
+  <li>CyberSecurity</li>
+  <li>Linux</li>
+  <li>Embedded Systems</li>
 </ul>
 
 ## Tools and Languages
