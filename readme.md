@@ -78,10 +78,10 @@
   <a href="https://github.com/JetDev22/sveltekit-BTC-Portfolio/">Go to project here</a></p>
 </details>
 <details>
-<summary>Advent of Code</summary>
-<img width="600px" src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Fa3rp9hsb1isfo1tvh1d8.jpeg"><br>
+<summary>Advent of Go</summary>
+<img width="600px" src="https://raw.githubusercontent.com/JetDev22/AdventOfGo/main/logo.jpg"><br>
 <p>My Advent of Code solutions. Great way to keep coding motivation up</p>
-<a href="https://github.com/JetDev22/AdventOfCode?tab=readme-ov-file"> Find my solutions here</a>
+<a href="https://github.com/JetDev22/AdventOfGo"> Find my solutions here</a>
 </details>
 <details>
 <summary>T-Embed-BTC-Tracker</summary>
